@@ -14,10 +14,7 @@ import java.util.HashSet;
 import java.util.stream.Collectors;
 
 /**
- * @author 亦枫
- * @created_time 2016年1月12日
- * @file_user_todo Java测试类
- * @blog http://www.jianshu.com/users/1c40186e3248/latest_articles
+ *
  */
 public class JavaTest {
 
